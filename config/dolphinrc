@@ -1,0 +1,34 @@
+[CompactMode]
+FontWeight=50
+PreviewSize=32
+
+[DetailsMode]
+FontWeight=50
+PreviewSize=32
+
+[General]
+GlobalViewProps=false
+ShowSpaceInfo=false
+Version=200
+ViewPropsTimestamp=2020,6,12,15,4,11
+
+[IconsMode]
+FontWeight=50
+
+[MainWindow]
+Height 1080=862
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAwAAAAAAAADLAAAEGPwCAAAAAvsAAAAWAGYAbwBsAGQAZQByAHMARABvAGMAawAAAAAA/////wAAAAIA////+wAAABQAcABsAGEAYwBlAHMARABvAGMAawEAAAAAAAAEGAAAADoA////AAAAAQAAALgAAAQY/AIAAAAB+wAAABAAaQBuAGYAbwBEAG8AYwBrAQAAAAAAAAQYAAAA2gD///8AAAADAAAAAAAAAAD8AQAAAAH7AAAAGAB0AGUAcgBtAGkAbgBhAGwARABvAGMAawAAAAAA/////wAAAAIA////AAAF7wAABBgAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAAAAAAD/////AAAAAAAAAAA=
+ToolBarsMovable=Disabled
+Width 1920=1355
+Window-Maximized 1080x1920=true
+
+[PlacesPanel]
+IconSize=22
+
+[PreviewSettings]
+Plugins=djvuthumbnail,windowsimagethumbnail,rawthumbnail,jpegthumbnail,svgthumbnail,directorythumbnail,ebookthumbnail,kraorathumbnail,opendocumentthumbnail,blenderthumbnail,imagethumbnail,gsthumbnail,appimagethumbnail,fontthumbnail,exrthumbnail,windowsexethumbnail,audiothumbnail,comicbookthumbnail
+
+[SettingsDialog]
+Height 1080=362
+Width 1920=540

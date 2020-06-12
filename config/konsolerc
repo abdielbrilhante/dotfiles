@@ -1,0 +1,24 @@
+[Desktop Entry]
+DefaultProfile=Fish.profile
+
+[DownloadDialog Settings]
+Height 1080=400
+Width 1920=700
+
+[Favorite Profiles]
+Favorites=Fish.profile
+
+[KonsoleWindow]
+ShowMenuBarByDefault=false
+ShowWindowTitleOnTitleBar=true
+
+[MainWindow]
+Height 1080=925
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAABQMAAANXAAAABAAAAAQAAAAIAAAACPwAAAAA
+ToolBarsMovable=Disabled
+Width 1920=1468
+
+[TabBar]
+ExpandTabWidth=true
+TabBarPosition=Top

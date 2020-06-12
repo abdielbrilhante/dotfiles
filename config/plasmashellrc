@@ -1,0 +1,23 @@
+[DownloadDialog Settings]
+Height 1080=400
+Width 1920=700
+
+[PlasmaRunnerManager]
+LaunchCounts=3 services_applications:org.kde.dolphin.desktop,1 services_applications:org.kde.konsole.desktop,1 services_applications:systemsettings.desktop,1 services_applications:google-chrome.desktop
+pluginWhiteList=desktopsessions,services,places,PowerDevil,calculator,unitconverter,shell,bookmarks,recentdocuments,locations,baloosearch
+
+[PlasmaTransientsConfig]
+PreloadWeight=34
+
+[PlasmaViews][Panel 2][Defaults]
+thickness=36
+
+[PlasmaViews][Panel 2][Horizontal1920]
+thickness=36
+
+[ScreenConnectors]
+0=eDP-1
+1=HDMI-1
+
+[Updates]
+performed=/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/move_desktop_layout_config.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/unlock_widgets.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/obsolete_kickoffrc.js
