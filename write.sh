@@ -1,2 +1,2 @@
-cp -r config ~/.config
-cp -r local ~/.local/share
+cp -r config/* ~/.config
+cp -r local/* ~/.local/share
