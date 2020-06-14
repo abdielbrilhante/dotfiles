@@ -30,6 +30,9 @@ CommandAllKey=Meta
 
 [TabBox]
 BorderActivate=9
+DesktopLayout=org.kde.breeze.desktop
+DesktopListLayout=org.kde.breeze.desktop
+LayoutName=org.kde.breeze.desktop
 
 [Windows]
 BorderlessMaximizedWindows=true
@@ -39,3 +42,5 @@ RollOverDesktops=false
 [org.kde.kdecoration2]
 ButtonsOnLeft=
 ButtonsOnRight=IAX
+library=org.kde.breeze
+theme=Breeze

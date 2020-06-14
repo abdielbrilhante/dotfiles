@@ -6,9 +6,8 @@ wheel:Vertical;NoModifier=org.kde.switchdesktop
 [ActionPlugins][1]
 RightButton;NoModifier=org.kde.contextmenu
 
-[Containments][1]
-ItemGeometriesHorizontal=
-activityId=7d048292-f3c4-4dd2-999e-654ecb4ae382
+[Containments][23]
+activityId=3000864b-f0e8-4d96-a3c2-f2231fb6bab6
 formfactor=0
 immutability=1
 lastScreen=0
@@ -16,18 +15,15 @@ location=0
 plugin=org.kde.plasma.folder
 wallpaperplugin=org.kde.image
 
-[Containments][1][ConfigDialog]
-DialogHeight=480
-DialogWidth=640
+[Containments][23][ConfigDialog]
+DialogHeight=540
+DialogWidth=720
 
-[Containments][1][Configuration]
-PreloadWeight=34
+[Containments][23][Wallpaper][org.kde.image][General]
+Image=file:///home/abdiel/.local/share/wallpapers/bird-s-eye-view-photo-of-volcano-3762284.jpg
 
-[Containments][1][Wallpaper][org.kde.image][General]
-Image=file:///home/abdiel/.local/share/wallpapers/brown-sand-near-body-of-water-3993184.jpg
-
-[Containments][22]
-activityId=7d048292-f3c4-4dd2-999e-654ecb4ae382
+[Containments][43]
+activityId=3000864b-f0e8-4d96-a3c2-f2231fb6bab6
 formfactor=0
 immutability=1
 lastScreen=1
@@ -35,15 +31,51 @@ location=0
 plugin=org.kde.plasma.folder
 wallpaperplugin=org.kde.image
 
-[Containments][22][ConfigDialog]
-DialogHeight=480
-DialogWidth=640
+[Containments][43][ConfigDialog]
+DialogHeight=540
+DialogWidth=720
 
-[Containments][22][Configuration]
-PreloadWeight=34
+[Containments][43][Wallpaper][org.kde.image][General]
+Image=file:///home/abdiel/.local/share/wallpapers/bird-s-eye-view-photo-of-volcano-3762284.jpg
 
-[Containments][22][Wallpaper][org.kde.image][General]
-Image=file:///home/abdiel/.local/share/wallpapers/architecture-of-basel-2293507.jpg
+[Containments][8][Applets][10][Configuration]
+PreloadWeight=42
+
+[Containments][8][Applets][11][Configuration]
+PreloadWeight=42
+
+[Containments][8][Applets][12][Configuration]
+PreloadWeight=42
+
+[Containments][8][Applets][13][Configuration]
+PreloadWeight=42
+
+[Containments][8][Applets][14][Configuration]
+PreloadWeight=42
+
+[Containments][8][Applets][15][Configuration]
+PreloadWeight=42
+
+[Containments][8][Applets][16][Configuration]
+PreloadWeight=42
+
+[Containments][8][Applets][17][Configuration]
+PreloadWeight=42
+
+[Containments][8][Applets][18][Configuration]
+PreloadWeight=47
+
+[Containments][8][Applets][19][Configuration]
+PreloadWeight=42
+
+[Containments][8][Applets][20][Configuration]
+PreloadWeight=42
+
+[Containments][8][Configuration]
+PreloadWeight=42
+
+[Containments][9][Configuration]
+PreloadWeight=42
 
 [ScreenMapping]
 itemsOnDisabledScreens=

@@ -885,6 +885,20 @@ Key=Meta+E
 Type=SHORTCUT
 Uuid={467d6f9d-64b2-4a50-99f2-a97377c89450}
 
+[Directories]
+dir_pixmap[$d]
+
+[General]
+BrowserApplication[$d]
+ColorScheme[$d]
+Name[$d]
+fixed[$d]
+font[$d]
+menuFont[$d]
+shadeSortColumn[$d]
+smallestReadableFont[$d]
+toolBarFont[$d]
+
 [Gestures]
 Disabled=true
 MouseButton=2
@@ -894,10 +908,33 @@ Timeout=300
 Comment=
 WindowsCount=0
 
+[Icons]
+Theme[$d]
+
+[KDE]
+ChangeCursor[$d]
+ColorScheme[$d]
+LookAndFeelPackage[$d]
+SingleClick[$d]
+contrast[$d]
+widgetStyle[$d]
+
+[KFileDialog Settings]
+Breadcrumb Navigation[$d]
+
 [Main]
 AlreadyImported=defaults,konsole,konqueror_gestures_kde321,kde32b1
 Disabled=false
 Version=2
+
+[Paths]
+Trash[$d]
+
+[PreviewSettings]
+MaximumSize[$d]
+camera[$d]
+file[$d]
+fonts[$d]
 
 [Voice]
 Shortcut=

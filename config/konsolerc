@@ -6,7 +6,7 @@ Height 1080=400
 Width 1920=700
 
 [Favorite Profiles]
-Favorites=Fish.profile
+Favorites=Fish.profile,Breath2.profile
 
 [KonsoleWindow]
 ShowMenuBarByDefault=false
@@ -15,7 +15,7 @@ ShowWindowTitleOnTitleBar=true
 [MainWindow]
 Height 1080=925
 MenuBar=Disabled
-State=AAAA/wAAAAD9AAAAAAAABQMAAANXAAAABAAAAAQAAAAIAAAACPwAAAAA
+State=AAAA/wAAAAD9AAAAAAAABbwAAAOdAAAABAAAAAQAAAAIAAAACPwAAAAA
 ToolBarsMovable=Disabled
 Width 1920=1468
 
